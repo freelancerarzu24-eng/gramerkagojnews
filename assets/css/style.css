@@ -168,3 +168,20 @@ a:hover { color: var(--primary-red); }
     text-align: center;
     font-size: 14px;
 }
+.section-title {
+    border-bottom: 2px solid var(--primary-red);
+    padding-bottom: 5px;
+    display: inline-block;
+    color: var(--primary-red);
+    font-weight: bold;
+    font-family: 'Noto Serif Bengali', serif;
+}
+
+/* Fix for main-nav flex layout with container-custom */
+.main-nav .container-custom {
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}

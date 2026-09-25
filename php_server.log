@@ -59,3 +59,51 @@
 [Fri Sep 25 18:54:30 2026] [::1]:55556 Accepted
 [Fri Sep 25 18:54:30 2026] [::1]:55556 [200]: GET /assets/js/main.js
 [Fri Sep 25 18:54:30 2026] [::1]:55556 Closing
+[Fri Sep 25 19:53:31 2026] [::1]:33540 Accepted
+[Fri Sep 25 19:53:31 2026] [::1]:33540 [200]: GET /index.php
+[Fri Sep 25 19:53:31 2026] [::1]:33540 Closing
+[Fri Sep 25 19:53:42 2026] [::1]:41534 Accepted
+[Fri Sep 25 19:53:42 2026] [::1]:41534 [200]: HEAD /index.php
+[Fri Sep 25 19:53:42 2026] [::1]:41534 Closing
+[Fri Sep 25 19:54:50 2026] [::1]:40184 Accepted
+[Fri Sep 25 19:54:50 2026] [::1]:40184 [200]: GET /index.php
+[Fri Sep 25 19:54:50 2026] [::1]:40184 Closing
+[Fri Sep 25 19:55:42 2026] [::1]:39342 Accepted
+[Fri Sep 25 19:55:42 2026] [::1]:39342 [200]: HEAD /index.php
+[Fri Sep 25 19:55:42 2026] [::1]:39342 Closing
+[Fri Sep 25 19:55:58 2026] [::1]:35744 Accepted
+[Fri Sep 25 19:55:58 2026] [::1]:35744 [200]: GET /index.php
+[Fri Sep 25 19:55:58 2026] [::1]:35744 Closing
+[Fri Sep 25 19:59:48 2026] [::1]:40512 Accepted
+[Fri Sep 25 19:59:48 2026] [::1]:40512 [200]: GET /index.php
+[Fri Sep 25 19:59:48 2026] [::1]:40512 Closing
+[Fri Sep 25 19:59:59 2026] [::1]:34712 Accepted
+[Fri Sep 25 19:59:59 2026] [::1]:34712 [200]: GET /admin/login.php
+[Fri Sep 25 19:59:59 2026] [::1]:34712 Closing
+[Fri Sep 25 20:00:47 2026] [::1]:36374 Accepted
+[Fri Sep 25 20:00:47 2026] [::1]:36374 [200]: GET /index.php
+[Fri Sep 25 20:00:47 2026] [::1]:36374 Closing
+[Fri Sep 25 20:00:48 2026] [::1]:36376 Accepted
+[Fri Sep 25 20:00:48 2026] [::1]:36376 [200]: GET /assets/css/style.css
+[Fri Sep 25 20:00:48 2026] [::1]:36376 Closing
+[Fri Sep 25 20:00:48 2026] [::1]:36390 Accepted
+[Fri Sep 25 20:00:48 2026] [::1]:36390 [200]: GET /assets/js/main.js
+[Fri Sep 25 20:00:48 2026] [::1]:36390 Closing
+[Fri Sep 25 20:02:45 2026] [::1]:51106 Accepted
+[Fri Sep 25 20:02:45 2026] [::1]:51106 [200]: GET /index.php
+[Fri Sep 25 20:02:45 2026] [::1]:51106 Closing
+[Fri Sep 25 20:02:45 2026] [::1]:51112 Accepted
+[Fri Sep 25 20:02:45 2026] [::1]:51112 [200]: GET /assets/css/style.css
+[Fri Sep 25 20:02:45 2026] [::1]:51112 Closing
+[Fri Sep 25 20:02:45 2026] [::1]:51122 Accepted
+[Fri Sep 25 20:02:45 2026] [::1]:51122 [200]: GET /assets/js/main.js
+[Fri Sep 25 20:02:45 2026] [::1]:51122 Closing
+[Fri Sep 25 20:03:27 2026] [::1]:51210 Accepted
+[Fri Sep 25 20:03:27 2026] [::1]:51210 [200]: GET /index.php
+[Fri Sep 25 20:03:27 2026] [::1]:51210 Closing
+[Fri Sep 25 20:03:27 2026] [::1]:51216 Accepted
+[Fri Sep 25 20:03:27 2026] [::1]:51216 [200]: GET /assets/css/style.css
+[Fri Sep 25 20:03:27 2026] [::1]:51216 Closing
+[Fri Sep 25 20:03:27 2026] [::1]:51230 Accepted
+[Fri Sep 25 20:03:27 2026] [::1]:51230 [200]: GET /assets/js/main.js
+[Fri Sep 25 20:03:27 2026] [::1]:51230 Closing

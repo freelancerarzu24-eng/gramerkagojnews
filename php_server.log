@@ -1,0 +1,61 @@
+[Fri Sep 25 18:46:52 2026] PHP 8.3.6 Development Server (http://localhost:8000) started
+[Fri Sep 25 18:47:00 2026] [::1]:39750 Accepted
+[Fri Sep 25 18:47:00 2026] [::1]:39750 [200]: GET /admin/login.php
+[Fri Sep 25 18:47:00 2026] [::1]:39750 Closing
+[Fri Sep 25 18:47:10 2026] [::1]:48240 Accepted
+[Fri Sep 25 18:47:10 2026] [::1]:48240 [302]: GET /admin/index.php
+[Fri Sep 25 18:47:10 2026] [::1]:48240 Closing
+[Fri Sep 25 18:48:38 2026] [::1]:48112 Accepted
+[Fri Sep 25 18:48:38 2026] [::1]:48112 [302]: POST /admin/login.php
+[Fri Sep 25 18:48:38 2026] [::1]:48112 Closing
+[Fri Sep 25 18:48:38 2026] [::1]:48120 Accepted
+[Fri Sep 25 18:48:38 2026] [::1]:48120 [200]: GET /admin/categories.php
+[Fri Sep 25 18:48:38 2026] [::1]:48120 Closing
+[Fri Sep 25 18:48:49 2026] [::1]:32978 Accepted
+[Fri Sep 25 18:48:49 2026] [::1]:32978 [200]: GET /admin/news.php
+[Fri Sep 25 18:48:49 2026] [::1]:32978 Closing
+[Fri Sep 25 18:52:04 2026] [::1]:36804 Accepted
+[Fri Sep 25 18:52:04 2026] [::1]:36804 [200]: GET /index.php
+[Fri Sep 25 18:52:04 2026] [::1]:36804 Closing
+[Fri Sep 25 18:52:15 2026] [::1]:38616 Accepted
+[Fri Sep 25 18:52:15 2026] [::1]:38616 [200]: GET /article.php?slug=missing
+[Fri Sep 25 18:52:15 2026] [::1]:38616 Closing
+[Fri Sep 25 18:52:27 2026] [::1]:48658 Accepted
+[Fri Sep 25 18:52:27 2026] [::1]:48658 [200]: GET /category.php?slug=missing
+[Fri Sep 25 18:52:27 2026] [::1]:48658 Closing
+[Fri Sep 25 18:53:10 2026] [::1]:33102 Accepted
+[Fri Sep 25 18:53:10 2026] [::1]:33102 [200]: GET /index.php
+[Fri Sep 25 18:53:10 2026] [::1]:33102 Closing
+[Fri Sep 25 18:53:21 2026] [::1]:48316 Accepted
+[Fri Sep 25 18:53:21 2026] [::1]:48316 [200]: GET /article.php?slug=test-news
+[Fri Sep 25 18:53:21 2026] [::1]:48316 Closing
+[Fri Sep 25 18:53:32 2026] [::1]:55978 Accepted
+[Fri Sep 25 18:53:32 2026] [::1]:55978 [200]: GET /category.php?slug=national
+[Fri Sep 25 18:53:32 2026] [::1]:55978 Closing
+[Fri Sep 25 18:54:28 2026] [::1]:55518 Accepted
+[Fri Sep 25 18:54:28 2026] [::1]:55518 [200]: GET /index.php
+[Fri Sep 25 18:54:28 2026] [::1]:55518 Closing
+[Fri Sep 25 18:54:28 2026] [::1]:55520 Accepted
+[Fri Sep 25 18:54:28 2026] [::1]:55526 Accepted
+[Fri Sep 25 18:54:28 2026] [::1]:55520 [200]: GET /assets/css/style.css
+[Fri Sep 25 18:54:28 2026] [::1]:55520 Closing
+[Fri Sep 25 18:54:28 2026] [::1]:55526 [200]: GET /assets/js/main.js
+[Fri Sep 25 18:54:28 2026] [::1]:55526 Closing
+[Fri Sep 25 18:54:30 2026] [::1]:55532 Accepted
+[Fri Sep 25 18:54:30 2026] [::1]:55532 [200]: GET /category.php?slug=national
+[Fri Sep 25 18:54:30 2026] [::1]:55532 Closing
+[Fri Sep 25 18:54:30 2026] [::1]:55538 Accepted
+[Fri Sep 25 18:54:30 2026] [::1]:55538 [200]: GET /assets/css/style.css
+[Fri Sep 25 18:54:30 2026] [::1]:55538 Closing
+[Fri Sep 25 18:54:30 2026] [::1]:55540 Accepted
+[Fri Sep 25 18:54:30 2026] [::1]:55540 [200]: GET /assets/js/main.js
+[Fri Sep 25 18:54:30 2026] [::1]:55540 Closing
+[Fri Sep 25 18:54:30 2026] [::1]:55546 Accepted
+[Fri Sep 25 18:54:30 2026] [::1]:55546 [200]: GET /article.php?slug=test-news
+[Fri Sep 25 18:54:30 2026] [::1]:55546 Closing
+[Fri Sep 25 18:54:30 2026] [::1]:55552 Accepted
+[Fri Sep 25 18:54:30 2026] [::1]:55552 [200]: GET /assets/css/style.css
+[Fri Sep 25 18:54:30 2026] [::1]:55552 Closing
+[Fri Sep 25 18:54:30 2026] [::1]:55556 Accepted
+[Fri Sep 25 18:54:30 2026] [::1]:55556 [200]: GET /assets/js/main.js
+[Fri Sep 25 18:54:30 2026] [::1]:55556 Closing
